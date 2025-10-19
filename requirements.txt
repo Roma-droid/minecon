@@ -1,0 +1,9 @@
+aiohttp==3.13.1
+discord.py==2.6.4
+flask==3.1.2
+jupytext==1.18.0
+minecraft-launcher-lib==7.1
+psutil==7.1.0
+pynacl==1.6.0
+python-dotenv==1.1.1
+requests==2.32.5
